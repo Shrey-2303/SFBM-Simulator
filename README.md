@@ -1,5 +1,4 @@
-This program is made of 540 lines of code and hardowrk.
-Thank you in advance.
+This program is made of 540 lines of code.
 
 The following program will calulate and plot the SFBM diagram visually and show it to the user. The beam diagram 
 will also be shown in another figure for reference.
